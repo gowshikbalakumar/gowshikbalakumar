@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gowshik</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Explorer;Linux+Enthusiast;Future+Pentester;Builder+of+Tuxors&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Explorer;Linux+Enthusiast;Future+Security+Engineer;Builder+of+Tuxors&center=true&width=500&height=50">
 </p>
 
 ---
@@ -33,14 +33,11 @@ Tuxors - Personal Cybersecurity Lab
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://instagram.com/">
+  <a href="https://www.instagram.com/tuxors/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram">
   </a>
-  <a href="https://linkedin.com/">
+  <a href="https://www.linkedin.com/in/gowshik-balakumar-49a82028b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://youtube.com/">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube">
   </a>
 </p>
 
@@ -52,7 +49,6 @@ Tuxors - Personal Cybersecurity Lab
 
 ### 🖥️ Languages
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge\&logo=c)
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
@@ -61,15 +57,12 @@ Tuxors - Personal Cybersecurity Lab
 ### ⚙️ Tools & Tech
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
 
 ### 🔐 Cybersecurity
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge\&logo=wireshark)
 ![Nmap](https://img.shields.io/badge/Nmap-darkgreen?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-black?style=for-the-badge)
 
 ---
 
