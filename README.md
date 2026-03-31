@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gowshik</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Explorer;Linux+Enthusiast;Future+Security+Engineer;Builder+of+Tuxors&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Explorer;Linux+Enthusiast;Future+Security+Engineer&center=true&width=500&height=50">
 </p>
 
 ---
@@ -58,11 +58,19 @@ Tuxors - Personal Cybersecurity Lab
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
-
-### 🔐 Cybersecurity
-
 ![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge\&logo=wireshark)
 ![Nmap](https://img.shields.io/badge/Nmap-darkgreen?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-black?style=for-the-badge&logo=burpsuite)
+![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows)
+![Wifite](https://img.shields.io/badge/Wifite-darkgreen?style=for-the-badge)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-black?style=for-the-badge&logo=virtualbox)
+![PowerShell](https://img.shields.io/badge/PowerShell-black?style=for-the-badge&logo=powershell)
+![Canva](https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=canva)
+![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobephotoshop)
+![Illustrator](https://img.shields.io/badge/Illustrator-black?style=for-the-badge&logo=adobeillustrator)
+![Blender](https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender)
+
 
 ---
 
