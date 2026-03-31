@@ -69,7 +69,7 @@ Tuxors - Personal Cybersecurity Lab
 ![Canva](https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=canva)
 ![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobephotoshop)
 ![Illustrator](https://img.shields.io/badge/Illustrator-black?style=for-the-badge&logo=adobeillustrator)
-![Blender](https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender)
+![Blender](https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=blender)
 
 
 ---
