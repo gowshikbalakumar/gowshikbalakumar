@@ -68,7 +68,7 @@ Tuxors - Personal Cybersecurity Lab
 ![PowerShell](https://img.shields.io/badge/PowerShell-red?style=for-the-badge&logo=powershell)
 ![Canva](https://img.shields.io/badge/Canva-purple?style=for-the-badge&logo=canva)
 ![Photoshop](https://img.shields.io/badge/Photoshop-purple?style=for-the-badge&logo=adobephotoshop)
-![Illustrator](https://img.shields.io/badge/Illustrator-purle?style=for-the-badge&logo=adobeillustrator)
+![Illustrator](https://img.shields.io/badge/Illustrator-purple?style=for-the-badge&logo=adobeillustrator)
 ![Blender](https://img.shields.io/badge/Blender-purple?style=for-the-badge&logo=blender)
 
 
