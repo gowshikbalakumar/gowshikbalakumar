@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gowshik</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Security && Tech+Explorer;Linux+Enthusiast;Future+VAPT+Engineer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer;Security+&&+Tech+Explorer;VAPT+Tester&center=true&width=500&height=50">
 </p>
 
 ---
