@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gowshik</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Explorer;Linux+Enthusiast;Future+VAPT+Engineer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Security && Tech+Explorer;Linux+Enthusiast;Future+VAPT+Engineer&center=true&width=500&height=50">
 </p>
 
 ---
@@ -14,13 +14,13 @@
 
 ```bash
 > whoami
-Gowshik Balakumar
+Gowshik_Balakumar
 
 > role
 VAPT Tester | Security && Tech Explorer | Developer | Designer
 
 > focus
-Penetration Testing | Purple Team | Red && Blue Team-- -
+Penetration Testing | Red && Blue Team | Development
 
 ```
 
