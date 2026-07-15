@@ -17,16 +17,12 @@
 Gowshik Balakumar
 
 > role
-Cybersecurity Explorer | Developer | Designer
+VAPT Tester | Security && Tech Explorer | Developer | Designer
 
 > focus
-Linux | Networking | Ethical Hacking | AI
+Penetration Testing | Purple Team | Red && Blue Team-- -
 
-> lab
-Tuxors - Personal Cybersecurity Lab
 ```
-
----
 
 <!-- 🌐 SOCIALS -->
 
