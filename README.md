@@ -4,7 +4,6 @@
 
 ```text
 [ SYSTEM INITIALIZED ]
-
 SECURITY ENGINEER
 ```
 
@@ -15,14 +14,12 @@ SECURITY ENGINEER
 ```text
 ┌──[gowshik@cyberlab]─[~]
 └─$ whoami
-
 Security Engineer
 ```
 
 ```text
 ┌──[gowshik@cyberlab]─[~]
 └─$ cat /etc/focus
-
 [+] Web Security
 [+] Mobile Security
 [+] Cloud Security
@@ -34,7 +31,6 @@ Security Engineer
 ```text
 ┌──[gowshik@cyberlab]─[~]
 └─$ cat /etc/mindset
-
 Understand.
 Analyze.
 Break.
