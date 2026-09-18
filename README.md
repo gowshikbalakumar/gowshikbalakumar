@@ -1,12 +1,6 @@
 <div align="center">
 
 # `GOWSHIK BALAKUMAR`
-
-```text
-[ SYSTEM INITIALIZED ]
-SECURITY ENGINEER
-```
-
 <img src="https://readme-typing-svg.herokuapp.com/?font=monospace&size=15&duration=2500&pause=700&color=00FF00&center=true&vCenter=true&width=650&lines=WEB+SECURITY;MOBILE+SECURITY;CLOUD+SECURITY;INFRASTRUCTURE+SECURITY;NETWORK+SECURITY">
 
 </div>
